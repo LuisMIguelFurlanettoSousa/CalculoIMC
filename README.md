@@ -1,8 +1,11 @@
 Este código é uma aplicação simples de cálculo de IMC (Índice de Massa Corporal) em JavaScript, HTML e CSS. Ele captura o peso e a altura do usuário por meio de um formulário na página e, ao submeter os dados, calcula o IMC e exibe o resultado diretamente na página sem recarregá-la.
 
-#Funcionamento:
+Funcionamento:
+
 HTML: Estrutura da página com um formulário onde o usuário insere o peso e altura.
+
 CSS: Estiliza a página, fornecendo cores, espaçamento e interações visuais (como botões com animações).
+
 JavaScript:
 Captura os valores inseridos pelo usuário (peso e altura).
 Verifica se os valores são válidos.
